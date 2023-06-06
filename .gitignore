@@ -20,7 +20,7 @@ node_modules
 
 # misc files
 *.scss
-*.md
+style-guide.md
 *.css.map
 assets/fonts
 Design
