@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution Link](https://www.frontendmentor.io/solutions/responsive-results-summary-component-I_2J3Mp3XX)
-- Live Site URL: [Add live site URL here](https://results-summary-component07.netlify.app/)
+- Live Site URL: [Live site URL](https://results-summary-component07.netlify.app/)
 
 ### Built with
 
